@@ -1,4 +1,4 @@
-# myproject
+# My Todo Application
 
 ## Output screen looks like
 
