@@ -1,5 +1,9 @@
 # myproject
 
+## Output screen looks like
+
+![](Capture.png)
+
 ## Project setup
 ```
 npm install
